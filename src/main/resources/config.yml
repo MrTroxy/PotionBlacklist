@@ -1,0 +1,6 @@
+# Configuration file for PotionBlacklist plugin
+settings:
+  # Whether to show particles when blocking potion usage
+  show-particles: true
+  # Whether to show attempted potion type
+  show-potion-type: true

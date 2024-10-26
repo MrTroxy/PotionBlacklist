@@ -1,0 +1,16 @@
+name: PotionBlacklist
+version: 1.0
+main: com.dev.mrtroxy.PotionBlacklist
+api-version: '1.19'
+description: A plugin to manage potion usage restrictions
+commands:
+  potion:
+    description: Main command for potion blacklist management
+    usage: /<command> blacklist <player>
+permissions:
+  potion.blacklist:
+    description: Allows managing the potion blacklist
+    default: op
+  potion.blacklist.exempt:
+    description: Exempts player from blacklist restrictions
+    default: false

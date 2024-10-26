@@ -1,0 +1,3 @@
+com\dev\mrtroxy\PotionBlacklist.class
+com\dev\mrtroxy\commands\PotionCommand.class
+com\dev\mrtroxy\listeners\PotionListener.class
